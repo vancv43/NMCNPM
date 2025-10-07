@@ -1,0 +1,1 @@
+# NMCNPM01 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/vancv43/NMCNPM01.gitgit push -u origin main
