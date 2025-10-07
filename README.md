@@ -218,3 +218,4 @@ o	Kết luận & định hướng mở rộng
 Phải nộp: final-report.md, slide PPT (nếu có), link repo GitHub.
 Rubric (10đ): tích hợp đầy đủ (4), chạy demo được (3), báo cáo & trình bày (3).
 
+# NMCNPM01
